@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in [Your Interests Here]. I enjoy working on open-source projects and contributing to the developer community.
+I'm a passionate developer with a keen interest in coding. I enjoy working on open-source projects and contributing to the developer community.
 
 - 🔭 I’m currently working on Vacation planner
 - 🌱 I’m currently learning React and JS
